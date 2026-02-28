@@ -1,27 +1,17 @@
 GoVahan – Public Bus Management UI Prototype
 
-This repository contains the UI prototype for the GoVahan – Smart Public Bus Management System developed as part of the HCI project.
+This repository contains the UI prototype for the GoVahan – Smart Public Bus Management System created as part of an HCI project.
 
-📂 Project Structure
+🚀 How to Preview the Project
 
-The repository includes:
+To correctly view the UI screens, follow the steps below:
 
-HTML files for each screen
+Download or clone the entire repository to your local system.
 
-Supporting CSS files
+Make sure all folders are downloaded together without changing the folder structure.
 
-Image and icon assets
+Each screen is placed inside its respective folder.
 
-All files are organized in their respective folders.
+Inside every folder, you will find an index.html file.
 
-🚀 How to Preview the Prototype
-
-To properly view the interface locally, please follow these steps:
-
-Download or clone the complete repository to your system.
-
-Ensure that all folders and files remain in the same directory structure.
-
-Open any of the .html files using a web browser (e.g., Chrome, Edge, Firefox).
-
-For best results, start with the main home screen file (e.g., index.html).
+Open the required index.html file in any web browser (Chrome, Edge, Firefox) to preview that screen.
